@@ -17,19 +17,13 @@ Install all required packages to run the app.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will reload when you make changes.You may also see any lint errors in the console.
 
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
-
 The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Features
 
@@ -47,7 +41,7 @@ Redux is used for managing global states.
 
 MaterialUI is used for styling the app.
 
-GraphQL and Apollo are used for fetching data from the pokemon api https://wayfair.github.io/dociql/ ; a api that fetches all pokemon data is triggered when the web rendered, and another api that fetches a particular pokemon’s attacking moves is triggered each time when a user click ‘Learn More’ to read more information about a pokemon.
+GraphQL and Apollo are used for fetching data from the pokemon api https://wayfair.github.io/dociql/ ; an api that fetches all pokemon data is triggered when the web page rendered, and another api that fetches a particular pokemon’s attacking moves is triggered each time when a user click ‘Learn More’ to read more information about a pokemon.
 
 ChartJS is used for creating the bar chart.
 
