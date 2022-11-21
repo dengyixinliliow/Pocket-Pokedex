@@ -39,7 +39,7 @@ On the general pokemon page, you can browse all pokemons, search pokemons by the
 
 When you go to the personal pokedex page, you can see all the added pokemons displayed there, and you are free to remove them. Besides, on the top of the screen, there is a bar chart showing how your strong team is against the pokemon with different types. If the number is above zero, it indicates that your team has an advantage while playing against that type. If the number is under zero, it means that your team may lose while playing against that type. And zero indicates that your team has neither advantages nor disadvantages over that type of pokemons.
 
-## Features
+## Tech Stack
 
 React is used for displaying information and the frontend framework.
 
